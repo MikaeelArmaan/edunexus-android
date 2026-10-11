@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'in.sbnexus.edunexus'
+    namespace 'com.sbnexus.edunexus'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'in.sbnexus.edunexus'
+        applicationId 'com.sbnexus.edunexus'
         minSdk 23
         targetSdk 35
         versionCode 1

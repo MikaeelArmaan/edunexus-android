@@ -50,4 +50,3 @@ This project includes `.github/workflows/android.yml`.
 6. Extract the downloaded artifact ZIP to get `app-debug.apk`, then transfer it to your Android phone and install it.
 
 The cloud workflow installs Java and Gradle in the GitHub runner and compiles the APK. It does not require Android SDK installed on your local computer. The generated APK is a debug build intended for initial testing; create a signed release build before public distribution.
-# edunexus-android
